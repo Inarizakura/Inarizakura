@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🦊⛩
 
 <!--
 **Inarizakura/Inarizakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight&no-bg=true&no-frame=true
