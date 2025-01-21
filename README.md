@@ -24,6 +24,9 @@ SVG ICONS FROM: https://simpleicons.org/
 ![Jenkins](https://img.shields.io/badge/Jenkins-Jenkins?style=flat&logo=jenkins&logoColor=%23D24939&logoSize=auto&labelColor=FFF&color=FFF)
 ![Perforce](https://img.shields.io/badge/Perforce-Perforce?style=flat&logo=perforce&logoColor=%23404040&logoSize=auto&labelColor=FFF&color=FFF)
 ![Blender](https://img.shields.io/badge/Blender-Blender?style=flat&logo=blender&logoColor=%23E87D0D&logoSize=auto&labelColor=FFF&color=FFF)
+
+![Leetcode](https://img.shields.io/badge/LeetCode-LeetCode?style=flat&logo=leetcode&logoColor=%23FFA116&labelColor=000&color=000) https://leetcode.com/u/Inarizakura/
+![HackerRank](https://img.shields.io/badge/HackerRank-HackerRank?style=flat&logo=hackerrank&logoColor=%2300EA64&labelColor=000&color=000) https://www.hackerrank.com/profile/Inarizakura
 -->
 
 # Hi there 🦊⛩
