@@ -12,33 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-BADGES FROM: https://shields.io/badges/static-badge
-SVG ICONS FROM: https://simpleicons.org/
-
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-Ruby%20on%20Rails?style=flat&logo=rubyonrails&logoColor=%23D30001&logoSize=auto&labelColor=%23F5EEEB&color=%23F5EEEB)
-![Python](https://img.shields.io/badge/Python-Python?style=flat&logo=python&logoColor=%233776AB&logoSize=auto&labelColor=FFD43B&color=FFD43B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=flat&logo=postgresql&logoColor=%234169E1&logoSize=auto&labelColor=F5EEEB&color=F5EEEB)
-
-![CMake](https://img.shields.io/badge/CMake-CMake?style=flat&logo=cmake&logoColor=%23064F8C&logoSize=auto&labelColor=FFF&color=FFF)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-Unreal%20Engine?style=flat&logo=unrealengine&logoColor=%230E1128&logoSize=auto&labelColor=F5EEEB&color=F5EEEB)
-![Jenkins](https://img.shields.io/badge/Jenkins-Jenkins?style=flat&logo=jenkins&logoColor=%23D24939&logoSize=auto&labelColor=FFF&color=FFF)
-![Perforce](https://img.shields.io/badge/Perforce-Perforce?style=flat&logo=perforce&logoColor=%23404040&logoSize=auto&labelColor=FFF&color=FFF)
-![Blender](https://img.shields.io/badge/Blender-Blender?style=flat&logo=blender&logoColor=%23E87D0D&logoSize=auto&labelColor=FFF&color=FFF)
-
-<p align="center">
-  <a href="https://leetcode.com/u/Inarizakura/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-LeetCode?style=flat&logo=leetcode&logoColor=%23FFA116&labelColor=000&color=000"></a>
-  <a href="https://www.hackerrank.com/profile/Inarizakura"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-HackerRank?style=flat&logo=hackerrank&logoColor=%2300EA64&labelColor=000&color=000"></a>
-</p>
 -->
 
 # Hi there, I'm Dillon! 🦊⛩
 
-<table align="right">
-  <tr>
-    <td><a href="README.md">English</a></td>
-    <td><a href="README_JA.md">日本語</a></td>
-  </tr>
-</table>
 
 <details>
   <summary>Programming Languages</summary>
