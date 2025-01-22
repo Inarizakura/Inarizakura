@@ -33,6 +33,12 @@ SVG ICONS FROM: https://simpleicons.org/
 
 # Hi there, I'm Dillon! 🦊⛩
 
+<table align="right">
+  <tr>
+    <td><a href="README.md">English</a></td>
+    <td><a href="README_JA.md">日本語</a></td>
+  </tr>
+</table>
 
 <details>
   <summary>Programming Languages</summary>
